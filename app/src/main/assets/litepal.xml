@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="FengGe"></dbname>
+    <version value="3"></version>
+    <list>
+        <mapping class="com.fengge.mediarecordertest.News"></mapping>
+        <mapping class="com.fengge.mediarecordertest.Comment"></mapping>
+        <mapping class="com.fengge.mediarecordertest.Introduction"></mapping>
+        <mapping class="com.fengge.mediarecordertest.Category"></mapping>
+    </list>
+</litepal>
